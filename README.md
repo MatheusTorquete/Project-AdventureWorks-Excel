@@ -2,6 +2,14 @@
 
 Este projeto de análise de dados em Excel fornece uma visão detalhada das vendas ao longo do tempo, dividindo os dados em diferentes categorias para insights mais profundos. Aqui está um resumo das principais análises realizadas:
 
+## Visão Dashboard
+![image](https://github.com/MatheusTorquete/Project-AdventureWorks-Excel/assets/94683422/74bbe8b3-c93e-4b56-ae48-0205e6a9d179)
+
+## Parte 2
+![image](https://github.com/MatheusTorquete/Project-AdventureWorks-Excel/assets/94683422/89be0632-0d55-498e-9587-c5ec4a25385e)
+
+
+
 
 ## 1. **Análise Temporal de Vendas**
 
